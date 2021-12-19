@@ -12,4 +12,4 @@ You also may be interested in outcomes based on the category of campaign. I've i
 ---
 [Category Outcomes](https://user-images.githubusercontent.com/95391827/146113519-369e60ed-9242-4b2e-a1a4-e60a84607cc6.png)
 ---
-It was a pleasure compliling this information for you. If you have any questions, please reach me on slack. Kindly avoid posting in threads #01, #03, or anywhere else the TAs do not want you to post. 
+It was a pleasure compliling this information for you. If you have any questions, please reach me on slack.
