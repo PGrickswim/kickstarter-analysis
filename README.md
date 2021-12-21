@@ -1,38 +1,55 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
----
-Louise, I have compiled relevant data in response to your request. Below is the view of outcomes based on launch date. As you can see, launches in the Spring usually have a higher rate of success.
----
-![2021 12 13-Outcomes-Based-On-Launch-Date-Image](https://user-images.githubusercontent.com/95391827/146113331-ed3cde3a-fea4-4619-98ad-272434b28b09.png)
----
-Click here for a file you can download: [Launch Date Chart](https://user-images.githubusercontent.com/95391827/146113331-ed3cde3a-fea4-4619-98ad-272434b28b09.png)
----
-You also may be interested in outcomes based on the category of campaign. I've included that below as well, again with a link to the file underneath.
-![2021 12 13-Parent-Category-Outcomes-Image](https://user-images.githubusercontent.com/95391827/146113519-369e60ed-9242-4b2e-a1a4-e60a84607cc6.png)
----
-[Category Outcomes](https://user-images.githubusercontent.com/95391827/146113519-369e60ed-9242-4b2e-a1a4-e60a84607cc6.png)
----
-It was a pleasure compliling this information for you. If you have any questions, please reach me on slack.
-
-# Kickstarting with Excel
 
 ## Overview of Project
 
 ### Purpose
+The below analysis draws conclusions about the historical success of fundraising campaigns in the performing arts. This analysis can be used to make decisions about the scope, timing, and other important factors to improve the chances of a successful campaign. While the details and execution of the campaign remain the most important variables, understanding the environment in which a campaign is launched can play an important role in determining its success or failure.
 
-## Analysis and Challenges
+### Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+*Analysis*
+
+The analysis was conducted through execution of several steps to obtain and work with a large data set to discover trends, insights, and conclusions about kickstarter campaigns over a large frame of time. 
+1. First, a dataset was obtained and dowloaded to the computer
+2. Next, the dataset was filtered and a pivot table was created to find occurences that fit specific criteria
+3. Then, illustrative graphs were produced to quickly display trends and other relevant information.
+4. Finally, the information was compiled into this report for your review.
+
+*Challenges*
+
+Working with a very large dataset presented a few challenges that needed to be overcome. It was important to filter data that was not needed, but also to understand which columns were being filtered and ensuring that the filters weren't cloaking important data from being viewed. For example, if at one point of the project only US campaigns were being considered and an appropriate filter was set, it would be very important to then later remove that filter before understanding global performance against fiscal goals including all nations. Also, a challenge that was encountered involved pivoting dates. It is important to group or ungroup the dates as appropriate to ensure that the correct date format is displayed in the pivot table. Also, when months needed to be showing, the "Years" and "Quarters" options that appeared as default both had to be removed.
+     
+All in all, despite the challenges, the analysis was able to be completed in a satisfactory manner, and inferences about the results appear below.
+
 
 ### Analysis of Outcomes Based on Goals
+
+See below for an image of outcomes based on goals. Theater, Music, and Film campaigns clearly have a higher degree of success (yellow portion of the column graphs) than some of the other, less used campaigns. Engaging with an audience tends to give them an experience that promotes support. These are highly preferred over other forms of fundraising. Meanwhile, observe that campaigns centered around food and games have high failure rates. These categories, while they may appeal to some, do not tend to be as successful when it comes to launching fundraising campaigns. Again, the best bet is to start by focusing on a topic related directly to performing arts.
+
+![2021 12 13-Parent-Category-Outcomes-Image](https://user-images.githubusercontent.com/95391827/146113519-369e60ed-9242-4b2e-a1a4-e60a84607cc6.png)
+---
+
+[Category Outcomes](https://user-images.githubusercontent.com/95391827/146113519-369e60ed-9242-4b2e-a1a4-e60a84607cc6.png)
 
 ### Challenges and Difficulties Encountered
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### Analysis of Outcomes Based on Launch Date
 
-- What can you conclude about the Outcomes based on Goals?
+![2021 12 13-Outcomes-Based-On-Launch-Date-Image](https://user-images.githubusercontent.com/95391827/146113331-ed3cde3a-fea4-4619-98ad-272434b28b09.png)
+---
+
+[Launch Date Chart](https://user-images.githubusercontent.com/95391827/146113331-ed3cde3a-fea4-4619-98ad-272434b28b09.png)
+
+---
+
+### Analysis of Outcomes Based on Goals
+
+You also may be interested in outcomes based on the category of campaign. I've included that below as well, again with a link to the file underneath.
+![2021 12 13-Parent-Category-Outcomes-Image](https://user-images.githubusercontent.com/95391827/146113519-369e60ed-9242-4b2e-a1a4-e60a84607cc6.png)
+---
+[Category Outcomes](https://user-images.githubusercontent.com/95391827/146113519-369e60ed-9242-4b2e-a1a4-e60a84607cc6.png)
 
 - What are some limitations of this dataset?
 
