@@ -21,20 +21,20 @@ Working with a very large dataset presented a few challenges that needed to be o
      
 All in all, despite the challenges, the analysis was able to be completed in a satisfactory manner, and inferences about the results appear below.
 
-### Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Launch Date
 
-Analysis could also be completed on outcomes by category. Theater, Music, and Film campaigns clearly have a higher degree of success (yellow portion of the column graphs) than some of the other, less used campaigns. Engaging with an audience tends to give them an experience that promotes support. These are highly preferred over other forms of fundraising. Meanwhile, observe that campaigns centered around food and games have high failure rates. These categories, while they may appeal to some, do not tend to be as successful when it comes to launching fundraising campaigns. Again, the best bet is to start by focusing on a topic related directly to performing arts.
+See below for outcomes based on the month of launch for theater campaigns. While the number of failed campaigns is relatively constant throughout the year, the number of successful campaigns clearly peaks in the spring months of May and June. There is a secondary peak in February where almost twice as many campaigns are successful than those that fail. The data points to December as the month when most campaigns fail.
 
-![2021 12 13-Parent-Category-Outcomes-Image](https://user-images.githubusercontent.com/95391827/146113519-369e60ed-9242-4b2e-a1a4-e60a84607cc6.png)
+![Theater](https://raw.githubusercontent.com/PGrickswim/kickstarter-analysis/main/Theater_Outcomes_vs_Launch.png)
 ---
 
-[Category Outcomes](https://user-images.githubusercontent.com/95391827/146113519-369e60ed-9242-4b2e-a1a4-e60a84607cc6.png)
+[Theater Outcomes](https://raw.githubusercontent.com/PGrickswim/kickstarter-analysis/main/Theater_Outcomes_vs_Launch.png)
 
 ### Challenges and Difficulties Encountered
 
 ## Results
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Goals
 
 ![2021 12 13-Outcomes-Based-On-Launch-Date-Image](https://user-images.githubusercontent.com/95391827/146113331-ed3cde3a-fea4-4619-98ad-272434b28b09.png)
 ---
