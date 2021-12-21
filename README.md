@@ -21,10 +21,9 @@ Working with a very large dataset presented a few challenges that needed to be o
      
 All in all, despite the challenges, the analysis was able to be completed in a satisfactory manner, and inferences about the results appear below.
 
-
 ### Analysis of Outcomes Based on Goals
 
-See below for an image of outcomes based on goals. Theater, Music, and Film campaigns clearly have a higher degree of success (yellow portion of the column graphs) than some of the other, less used campaigns. Engaging with an audience tends to give them an experience that promotes support. These are highly preferred over other forms of fundraising. Meanwhile, observe that campaigns centered around food and games have high failure rates. These categories, while they may appeal to some, do not tend to be as successful when it comes to launching fundraising campaigns. Again, the best bet is to start by focusing on a topic related directly to performing arts.
+Analysis could also be completed on outcomes by category. Theater, Music, and Film campaigns clearly have a higher degree of success (yellow portion of the column graphs) than some of the other, less used campaigns. Engaging with an audience tends to give them an experience that promotes support. These are highly preferred over other forms of fundraising. Meanwhile, observe that campaigns centered around food and games have high failure rates. These categories, while they may appeal to some, do not tend to be as successful when it comes to launching fundraising campaigns. Again, the best bet is to start by focusing on a topic related directly to performing arts.
 
 ![2021 12 13-Parent-Category-Outcomes-Image](https://user-images.githubusercontent.com/95391827/146113519-369e60ed-9242-4b2e-a1a4-e60a84607cc6.png)
 ---
@@ -51,6 +50,11 @@ You also may be interested in outcomes based on the category of campaign. I've i
 ---
 [Category Outcomes](https://user-images.githubusercontent.com/95391827/146113519-369e60ed-9242-4b2e-a1a4-e60a84607cc6.png)
 
-- What are some limitations of this dataset?
+The dataset used does have limitations. First, the data within it is only as accurate as we accept it to be. If the data was collected or built in a faulty way, some of the variables and values represented therein may be incorrect. We have no way of knowing this, so we must accept the data at face value for the most part. There is the ability to conduct statistical analysist to find outliers, but understanding whether they are typographical errors that need to be removed, or a campaign with a $1,000,000 goal that just really *swung for the fences* is up to the interpretation of the analys. Also, the completeness of the dataset is limited to that which could be collected. There may be other relevant datapoints that were not included. Finally, there will always be variables that influence human behavior that go beyond what can be tracked through data.
 
-- What are some other possible tables and/or graphs that we could create?
+Analysis could also be completed on outcomes by category. Theater, Music, and Film campaigns clearly have a higher degree of success (yellow portion of the column graphs) than some of the other, less used campaigns. Engaging with an audience tends to give them an experience that promotes support. These are highly preferred over other forms of fundraising. Meanwhile, observe that campaigns centered around food and games have high failure rates. These categories, while they may appeal to some, do not tend to be as successful when it comes to launching fundraising campaigns. Again, the best bet is to start by focusing on a topic related directly to performing arts.
+
+![2021 12 13-Parent-Category-Outcomes-Image](https://user-images.githubusercontent.com/95391827/146113519-369e60ed-9242-4b2e-a1a4-e60a84607cc6.png)
+---
+
+[Category Outcomes](https://user-images.githubusercontent.com/95391827/146113519-369e60ed-9242-4b2e-a1a4-e60a84607cc6.png)
